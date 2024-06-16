@@ -2,7 +2,7 @@
 
 ### Projeto
 
-```markdown
+ 
 # "Imagem Verdadeira ou Falsa? Vamos Descobrir!" 
 
 ## 📒 Descrição
